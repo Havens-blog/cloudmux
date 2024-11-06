@@ -340,3 +340,21 @@ func (client *SAliyunClient) UpdateDomainRecord(id string, opts *cloudprovider.D
 	}
 	return nil
 }
+
+func (client *SAliyunClient) DescribeSubDomainRecords(SubDomainName string, pageNumber int, pageSize int) (SDomainRecords, error) {
+	srecords := SDomainRecords{}
+	params := map[string]string{}
+	params["Action"] = "DescribeSubDomainRecords"
+	params["SubDomain"] = SubDomainName
+	params["PageNumber"] = strconv.Itoa(pageNumber)
+	params["PageSize"] = strconv.Itoa(pageSize)
+	resp, err := client.alidnsRequest("DescribeSubDomainRecords", params)
+	if err != nil {
+		return srecords, errors.Wrap(err, "DescribeSubDomainRecords")
+	}
+	err = resp.Unmarshal(&srecords)
+	if err != nil {
+		return srecords, errors.Wrap(err, "resp.Unmarshal")
+	}
+	return srecords, nil
+}
