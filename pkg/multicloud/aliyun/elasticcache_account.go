@@ -21,9 +21,9 @@ import (
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/pkg/errors"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 )
 
 // https://help.aliyun.com/document_detail/95802.html?spm=a2c4g.11186623.6.746.1d4b302ayCuzXB

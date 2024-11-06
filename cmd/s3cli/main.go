@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/objectstore/s3cli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore/s3cli"
 )
 
 func main() {

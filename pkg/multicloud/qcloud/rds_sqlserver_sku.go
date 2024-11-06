@@ -17,7 +17,7 @@ package qcloud
 import (
 	"yunion.io/x/pkg/errors"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
 )
 
 type SqlServerSpecInfoList struct {

@@ -19,8 +19,8 @@ import (
 
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
-	"yunion.io/x/cloudmux/pkg/multicloud/objectstore"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore"
 )
 
 func init() {

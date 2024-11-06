@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/baidu/baiducli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/baidu/baiducli"
 )
 
 func main() {

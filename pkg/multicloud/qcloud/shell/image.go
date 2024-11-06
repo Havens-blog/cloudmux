@@ -20,8 +20,8 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/apis"
-	"yunion.io/x/cloudmux/pkg/multicloud/qcloud"
+	"github.com/Havens-blog/cloudmux/pkg/apis"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/qcloud"
 )
 
 func init() {

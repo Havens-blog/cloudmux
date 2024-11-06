@@ -17,7 +17,7 @@ package modules
 import (
 	"fmt"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/manager"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/manager"
 )
 
 type SElbPoliciesManager struct {

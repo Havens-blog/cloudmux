@@ -1,7 +1,7 @@
 package shell
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
 	"yunion.io/x/pkg/util/shellutils"
 )
 

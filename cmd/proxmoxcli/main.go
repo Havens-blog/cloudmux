@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/proxmox/proxmoxcli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/proxmox/proxmoxcli"
 )
 
 func main() {

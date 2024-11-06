@@ -16,7 +16,7 @@ package oracle
 
 import (
 	"github.com/pkg/errors"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SOracleTag struct {

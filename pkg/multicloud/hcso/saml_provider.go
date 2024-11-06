@@ -24,11 +24,11 @@ import (
 	"yunion.io/x/pkg/util/samlutils"
 	"yunion.io/x/pkg/util/stringutils"
 
-	api "yunion.io/x/cloudmux/pkg/apis/cloudid"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/modules"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/cloudid"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/modules"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
 )
 
 type SAMLProviderLinks struct {

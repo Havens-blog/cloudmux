@@ -24,8 +24,8 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/errors"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 )
 
 type SLoadbalancerMemberCreateParams struct {

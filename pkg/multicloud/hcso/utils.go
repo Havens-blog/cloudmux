@@ -25,9 +25,9 @@ import (
 	"yunion.io/x/pkg/util/httputils"
 	"yunion.io/x/pkg/utils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/manager"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/responses"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/manager"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/responses"
 )
 
 // 常用的方法

@@ -17,8 +17,8 @@ package remotefile
 import (
 	"time"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 )
 
 type SResourceBase struct {

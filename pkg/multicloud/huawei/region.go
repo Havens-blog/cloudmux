@@ -24,10 +24,10 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/errors"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei/obs"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei/obs"
 )
 
 type Locales struct {

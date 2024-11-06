@@ -20,7 +20,7 @@ import (
 
 	"github.com/volcengine/ve-tos-golang-sdk/v2/tos"
 	"github.com/volcengine/ve-tos-golang-sdk/v2/tos/enum"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/errors"
 )

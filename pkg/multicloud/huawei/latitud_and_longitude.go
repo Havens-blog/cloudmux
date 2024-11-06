@@ -15,8 +15,8 @@
 package huawei
 
 import (
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 // China: https://developer.huaweicloud.com/endpoint

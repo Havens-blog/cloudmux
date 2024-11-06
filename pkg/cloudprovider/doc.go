@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package cloudprovider // import "yunion.io/x/cloudmux/pkg/cloudprovider"
+package cloudprovider // import "github.com/Havens-blog/cloudmux/pkg/cloudprovider"

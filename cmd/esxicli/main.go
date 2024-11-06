@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/esxi/esxicli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/esxi/esxicli"
 )
 
 func main() {

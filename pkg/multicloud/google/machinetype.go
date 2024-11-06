@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"time"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SMachineType struct {

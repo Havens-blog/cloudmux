@@ -18,8 +18,8 @@ import (
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/pkg/errors"
 
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
 )
 
 type SNatSEntry struct {

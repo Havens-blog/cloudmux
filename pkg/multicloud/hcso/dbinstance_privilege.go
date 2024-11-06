@@ -17,7 +17,7 @@ package hcso
 import (
 	"fmt"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
 )
 
 type SDatabasePrivilege struct {

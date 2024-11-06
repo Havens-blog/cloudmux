@@ -23,8 +23,8 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/util/osprofile"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type MetricData struct {

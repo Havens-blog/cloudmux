@@ -19,9 +19,9 @@ import (
 
 	"yunion.io/x/jsonutils"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
 )
 
 /*

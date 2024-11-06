@@ -19,7 +19,7 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/utils"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
 )
 
 type SellTypeConfig struct {

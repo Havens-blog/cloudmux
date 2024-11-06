@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/volcengine/volcli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/volcengine/volcli"
 )
 
 func main() {

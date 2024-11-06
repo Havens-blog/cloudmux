@@ -23,7 +23,7 @@ import (
 	"yunion.io/x/pkg/util/printutils"
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 func TestShell() {

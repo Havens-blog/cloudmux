@@ -18,8 +18,8 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/bingocloud"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/bingocloud"
 )
 
 func init() {

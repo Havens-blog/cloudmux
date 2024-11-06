@@ -15,8 +15,8 @@
 package shell
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/test"
-	"yunion.io/x/cloudmux/pkg/multicloud/volcengine"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/test"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/volcengine"
 	"yunion.io/x/pkg/util/shellutils"
 )
 

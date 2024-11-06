@@ -34,8 +34,8 @@ import (
 	"yunion.io/x/pkg/utils"
 	"yunion.io/x/s3cli"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 )
 
 type SBucket struct {

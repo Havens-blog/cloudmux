@@ -21,7 +21,7 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/errors"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 func (self *SAliyunClient) businessRequest(apiName string, params map[string]string) (jsonutils.JSONObject, error) {

@@ -14,7 +14,7 @@
 
 package multicloud
 
-import "yunion.io/x/cloudmux/pkg/apis"
+import "github.com/Havens-blog/cloudmux/pkg/apis"
 
 type SHostBase struct {
 	SResourceBase

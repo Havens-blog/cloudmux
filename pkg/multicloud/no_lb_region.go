@@ -14,7 +14,7 @@
 
 package multicloud
 
-import "yunion.io/x/cloudmux/pkg/cloudprovider"
+import "github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 
 type SNoLbRegion struct{}
 

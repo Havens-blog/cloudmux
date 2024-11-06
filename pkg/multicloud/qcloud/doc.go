@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package qcloud // import "yunion.io/x/cloudmux/pkg/multicloud/qcloud"
+package qcloud // import "github.com/Havens-blog/cloudmux/pkg/multicloud/qcloud"
 
 /*
 Network Pre Conditions

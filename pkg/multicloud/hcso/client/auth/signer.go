@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/auth/credentials"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/auth/signers"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/requests"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/auth/credentials"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/auth/signers"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/requests"
 )
 
 type Signer interface {

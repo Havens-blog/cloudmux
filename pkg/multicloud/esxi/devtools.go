@@ -20,7 +20,7 @@ import (
 
 	"github.com/vmware/govmomi/vim25/types"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
 	"yunion.io/x/pkg/errors"
 )
 

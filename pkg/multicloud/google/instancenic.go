@@ -17,7 +17,7 @@ package google
 import (
 	"yunion.io/x/pkg/util/netutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SNetworkInterface struct {

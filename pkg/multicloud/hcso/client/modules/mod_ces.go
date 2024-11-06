@@ -20,9 +20,9 @@ import (
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/pkg/errors"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/manager"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/requests"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/manager"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/requests"
 )
 
 type SCloudEyeManager struct {

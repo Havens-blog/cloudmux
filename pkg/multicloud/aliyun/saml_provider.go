@@ -25,10 +25,10 @@ import (
 	"yunion.io/x/pkg/util/httputils"
 	"yunion.io/x/pkg/util/samlutils"
 
-	"yunion.io/x/cloudmux/pkg/apis/cloudid"
-	api "yunion.io/x/cloudmux/pkg/apis/cloudid"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/apis/cloudid"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/cloudid"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 )
 
 type SAMLProvider struct {

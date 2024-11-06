@@ -25,12 +25,12 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/util/timeutils"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/auth"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/auth/credentials"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei/obs"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/auth"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/auth/credentials"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei/obs"
 )
 
 /*

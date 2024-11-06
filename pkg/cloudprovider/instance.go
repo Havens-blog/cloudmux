@@ -25,7 +25,7 @@ import (
 	"yunion.io/x/pkg/util/osprofile"
 	"yunion.io/x/pkg/util/seclib"
 
-	"yunion.io/x/cloudmux/pkg/apis"
+	"github.com/Havens-blog/cloudmux/pkg/apis"
 )
 
 type TOsType string

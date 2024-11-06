@@ -21,7 +21,7 @@ import (
 
 	"yunion.io/x/log"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SManagedObject struct {

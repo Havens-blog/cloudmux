@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/google/googlecli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/google/googlecli"
 )
 
 func main() {

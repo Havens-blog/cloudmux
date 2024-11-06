@@ -14,7 +14,7 @@
 
 package shell
 
-import "yunion.io/x/cloudmux/pkg/multicloud/objectstore"
+import "github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore"
 
 func init() {
 	objectstore.S3Shell()

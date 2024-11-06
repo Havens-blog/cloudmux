@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package nutanix // import "yunion.io/x/cloudmux/pkg/multicloud/nutanix"
+package nutanix // import "github.com/Havens-blog/cloudmux/pkg/multicloud/nutanix"

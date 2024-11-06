@@ -17,8 +17,8 @@ package volcengine
 import (
 	"strings"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/pkg/errors"
 )

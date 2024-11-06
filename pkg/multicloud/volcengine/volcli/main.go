@@ -21,9 +21,9 @@ import (
 	"os"
 
 	"golang.org/x/net/http/httpproxy"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/volcengine"
-	_ "yunion.io/x/cloudmux/pkg/multicloud/volcengine/shell"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/volcengine"
+	_ "github.com/Havens-blog/cloudmux/pkg/multicloud/volcengine/shell"
 	"yunion.io/x/pkg/util/shellutils"
 	"yunion.io/x/structarg"
 )

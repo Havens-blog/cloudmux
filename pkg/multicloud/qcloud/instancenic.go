@@ -15,7 +15,7 @@
 package qcloud
 
 import (
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 	"yunion.io/x/pkg/util/netutils"
 )
 

@@ -19,7 +19,7 @@ import (
 
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/proxmox"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/proxmox"
 )
 
 func init() {

@@ -17,8 +17,8 @@ package shell
 import (
 	"fmt"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/volcengine"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/volcengine"
 	"yunion.io/x/pkg/util/shellutils"
 )
 

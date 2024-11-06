@@ -25,9 +25,9 @@ import (
 	"yunion.io/x/pkg/util/shellutils"
 	"yunion.io/x/structarg"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/ecloud"
-	_ "yunion.io/x/cloudmux/pkg/multicloud/ecloud/shell"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/ecloud"
+	_ "github.com/Havens-blog/cloudmux/pkg/multicloud/ecloud/shell"
 )
 
 type Options struct {

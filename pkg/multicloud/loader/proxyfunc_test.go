@@ -22,8 +22,8 @@ import (
 	"yunion.io/x/pkg/util/httputils"
 	"yunion.io/x/s3cli"
 
-	"yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 func TestProxyFunc(t *testing.T) {

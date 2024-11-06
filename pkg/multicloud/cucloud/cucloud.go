@@ -36,8 +36,8 @@ import (
 	"yunion.io/x/pkg/util/httputils"
 	"yunion.io/x/s3cli"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 const (

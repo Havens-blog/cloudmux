@@ -28,7 +28,7 @@ import (
 	"yunion.io/x/pkg/util/httputils"
 	"yunion.io/x/pkg/util/s3auth"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SCephAdminApi struct {

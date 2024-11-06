@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package objectstore // import "yunion.io/x/cloudmux/pkg/multicloud/objectstore"
+package objectstore // import "github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore"

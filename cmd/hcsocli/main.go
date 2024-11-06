@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/hcsocli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/hcsocli"
 )
 
 func main() {

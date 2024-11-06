@@ -17,7 +17,7 @@ package shell
 import (
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/cucloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/cucloud"
 )
 
 func init() {

@@ -21,8 +21,8 @@ import (
 
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	huawei "yunion.io/x/cloudmux/pkg/multicloud/hcso"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	huawei "github.com/Havens-blog/cloudmux/pkg/multicloud/hcso"
 )
 
 func init() {

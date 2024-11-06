@@ -31,7 +31,7 @@ import (
 	"yunion.io/x/pkg/util/shellutils"
 	"yunion.io/x/pkg/util/streamutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type ObjectHeaderOptions struct {

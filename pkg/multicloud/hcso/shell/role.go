@@ -22,9 +22,9 @@ import (
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/util/shellutils"
 
-	cloudid_api "yunion.io/x/cloudmux/pkg/apis/cloudid"
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	huawei "yunion.io/x/cloudmux/pkg/multicloud/hcso"
+	cloudid_api "github.com/Havens-blog/cloudmux/pkg/apis/cloudid"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	huawei "github.com/Havens-blog/cloudmux/pkg/multicloud/hcso"
 )
 
 func init() {

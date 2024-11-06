@@ -25,9 +25,9 @@ import (
 	"yunion.io/x/pkg/util/shellutils"
 	"yunion.io/x/structarg"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/aliyun"
-	_ "yunion.io/x/cloudmux/pkg/multicloud/aliyun/shell"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/aliyun"
+	_ "github.com/Havens-blog/cloudmux/pkg/multicloud/aliyun/shell"
 )
 
 type BaseOptions struct {

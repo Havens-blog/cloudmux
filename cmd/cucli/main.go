@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/cucloud/cucli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/cucloud/cucli"
 )
 
 func main() {

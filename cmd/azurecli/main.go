@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/azure/azurecli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/azure/azurecli"
 )
 
 func main() {

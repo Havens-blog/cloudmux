@@ -31,7 +31,7 @@ import (
 	"yunion.io/x/pkg/gotypes"
 	"yunion.io/x/pkg/util/httputils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type akClient struct {

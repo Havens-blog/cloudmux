@@ -17,7 +17,7 @@ package shell
 import (
 	"fmt"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type Command struct {

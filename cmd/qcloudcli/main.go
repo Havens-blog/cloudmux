@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/qcloud/qcloudcli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/qcloud/qcloudcli"
 )
 
 func main() {

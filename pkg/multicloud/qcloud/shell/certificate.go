@@ -15,7 +15,7 @@
 package shell
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/qcloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/qcloud"
 	"yunion.io/x/pkg/util/shellutils"
 )
 

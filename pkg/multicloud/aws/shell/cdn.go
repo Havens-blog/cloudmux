@@ -15,7 +15,7 @@
 package shell
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/aws"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/aws"
 	"yunion.io/x/pkg/util/shellutils"
 )
 

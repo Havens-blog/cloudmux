@@ -22,9 +22,9 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/util/httputils"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/openstack/oscli"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/openstack/oscli"
 )
 
 type SProject struct {

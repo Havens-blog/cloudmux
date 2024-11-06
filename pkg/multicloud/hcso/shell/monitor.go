@@ -15,8 +15,8 @@
 package shell
 
 import (
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	huawei "yunion.io/x/cloudmux/pkg/multicloud/hcso"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	huawei "github.com/Havens-blog/cloudmux/pkg/multicloud/hcso"
 	"yunion.io/x/log"
 	"yunion.io/x/pkg/util/shellutils"
 )

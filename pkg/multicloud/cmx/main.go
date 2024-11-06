@@ -21,8 +21,8 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/structarg"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/cmx/shell"
-	_ "yunion.io/x/cloudmux/pkg/multicloud/loader"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/cmx/shell"
+	_ "github.com/Havens-blog/cloudmux/pkg/multicloud/loader"
 )
 
 func getSubcommandParser() (*structarg.ArgumentParser, error) {

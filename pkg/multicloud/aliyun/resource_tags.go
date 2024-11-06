@@ -22,7 +22,7 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/utils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 func (self *SRegion) tagRequest(serviceType, action string, params map[string]string, body interface{}) (jsonutils.JSONObject, error) {

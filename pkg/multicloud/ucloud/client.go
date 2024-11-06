@@ -26,7 +26,7 @@ import (
 	"yunion.io/x/pkg/errors"
 	"yunion.io/x/pkg/util/httputils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 const UCLOUD_API_HOST = "https://api.ucloud.cn"

@@ -17,7 +17,7 @@ package remotefile
 import (
 	"yunion.io/x/pkg/errors"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 func (self *SRemoteFileClient) GetMetrics(opts *cloudprovider.MetricListOptions) ([]cloudprovider.MetricValues, error) {

@@ -22,7 +22,7 @@ import (
 	"yunion.io/x/pkg/util/printutils"
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/esxi"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/esxi"
 )
 
 func getDatastore(cli *esxi.SESXiClient, dcId string, dsId string) (*esxi.SDatastore, error) {

@@ -22,7 +22,7 @@ import (
 
 	"yunion.io/x/jsonutils"
 
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type SAuthorization struct {

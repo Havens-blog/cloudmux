@@ -17,8 +17,8 @@ package esxi
 import (
 	"yunion.io/x/pkg/tristate"
 
-	"yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
 )
 
 type sHostNicInfo struct {

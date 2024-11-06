@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package modules // import "yunion.io/x/cloudmux/pkg/multicloud/hcso/client/modules"
+package modules // import "github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/modules"

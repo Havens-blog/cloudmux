@@ -31,7 +31,7 @@ package shell
 import (
 	"yunion.io/x/pkg/util/shellutils"
 
-	"yunion.io/x/cloudmux/pkg/multicloud/aliyun"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/aliyun"
 )
 
 func init() {

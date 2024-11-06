@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/ecloud/ecloudcli"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/ecloud/ecloudcli"
 )
 
 func main() {

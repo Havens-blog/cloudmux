@@ -15,7 +15,7 @@
 package main
 
 import (
-	"yunion.io/x/cloudmux/pkg/multicloud/cmx"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/cmx"
 )
 
 func main() {

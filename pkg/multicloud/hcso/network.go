@@ -20,11 +20,11 @@ import (
 	"yunion.io/x/pkg/util/netutils"
 	"yunion.io/x/pkg/util/rbacscope"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud"
-	"yunion.io/x/cloudmux/pkg/multicloud/hcso/client/modules"
-	"yunion.io/x/cloudmux/pkg/multicloud/huawei"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/hcso/client/modules"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/huawei"
 )
 
 /*

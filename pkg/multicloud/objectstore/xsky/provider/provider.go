@@ -15,11 +15,11 @@
 package provider
 
 import (
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	"yunion.io/x/cloudmux/pkg/multicloud/objectstore"
-	s3provider "yunion.io/x/cloudmux/pkg/multicloud/objectstore/provider"
-	"yunion.io/x/cloudmux/pkg/multicloud/objectstore/xsky"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore"
+	s3provider "github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore/provider"
+	"github.com/Havens-blog/cloudmux/pkg/multicloud/objectstore/xsky"
 )
 
 type SXskyProviderFactory struct {

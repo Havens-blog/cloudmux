@@ -21,9 +21,9 @@ import (
 	"yunion.io/x/jsonutils"
 	"yunion.io/x/pkg/errors"
 
-	api "yunion.io/x/cloudmux/pkg/apis/compute"
-	"yunion.io/x/cloudmux/pkg/cloudprovider"
-	huawei "yunion.io/x/cloudmux/pkg/multicloud/hcso"
+	api "github.com/Havens-blog/cloudmux/pkg/apis/compute"
+	"github.com/Havens-blog/cloudmux/pkg/cloudprovider"
+	huawei "github.com/Havens-blog/cloudmux/pkg/multicloud/hcso"
 )
 
 type SHCSOProviderFactory struct {

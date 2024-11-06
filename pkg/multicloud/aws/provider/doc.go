@@ -12,4 +12,4 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package provider // import "yunion.io/x/cloudmux/pkg/multicloud/aws/provider"
+package provider // import "github.com/Havens-blog/cloudmux/pkg/multicloud/aws/provider"
