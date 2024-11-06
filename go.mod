@@ -1,4 +1,4 @@
-module yunion.io/x/cloudmux
+module github.com/Havens-blog/cloudmux
 
 go 1.18
 
